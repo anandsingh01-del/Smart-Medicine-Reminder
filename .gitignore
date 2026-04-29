@@ -1,0 +1,13 @@
+# IntelliJ files
+.idea/
+*.iml
+
+# Build folders
+out/
+target/
+
+# Compiled files
+*.class
+
+# OS files
+.DS_Store
